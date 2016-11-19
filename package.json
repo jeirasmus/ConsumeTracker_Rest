@@ -1,0 +1,22 @@
+{
+  "name": "node-consumetracker-rest-service",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "^4.13.4",
+    "http-auth": "^2.4.1",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^7.0.0",
+    "mongoose": "^4.4.20",
+    "morgan": "~1.6.1",
+    "pg-promise": "^3.2.3",
+    "serve-favicon": "~2.3.0"
+  }
+}
